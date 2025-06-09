@@ -15,10 +15,19 @@ This project is a starting point for a Flutter application.
 - Clean architecture
 - Responsive design
 
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 📦 Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK (>= 3.x.x)
+- Android Studio / VS Code
+- A connected device or emulator
+
+
+### 🔧 Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/mashoodpangat/ulearna-reels-app.git
+   cd flutter_reels_app
+
